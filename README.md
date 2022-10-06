@@ -1,5 +1,5 @@
 # jQuery
-jQuery Exercise 
+jQuery Exercise
 
 1. When the DOM is ready, console.log the message “Let’s get ready to party with jQuery!”
 <!-- Completed on line 77 -->
